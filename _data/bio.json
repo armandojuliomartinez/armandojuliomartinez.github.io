@@ -1,26 +1,25 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Armando Martinez",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "picture": "https://avatars.githubusercontent.com/u/156281960?s=400&u=024d31915969f2ba05fd56f6069a0b61b6394e4a&v=4",
+    "email": "armandoj@hawaii.edu",
+    "phone": "925-705-3659",
+    "website": "https://armandojuliomartinez.github.io",
+    "summary": "I am studying for a B.B.A. in Accounting and Management Information Systems at the Shidler Business school at the University of Hawaii at Manoa. I expect to graduate in Spring, 2025.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "armandojuliomartinez", "url": "http://github.com/armandojuliomartinez" },
+      { "network": "linkedin", "username": "Armando Martinez", "url": "https://www.linkedin.com/in/armando-martinez-372378210/" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Hiking" },
+    { "name": "Swimming" },
+    { "name": "Nuclear Power/Engineering" },
+    { "name": "Accounting" },
+    { "name": "Waterpolo" },
+    { "name": "Infra-Red Photography" }
   ],
   "skills": [
     {
