@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Armando Martinez",
-    "label": "Undergraduate student at the Shidler College of Business",
+    "label": "Student",
     "picture": "https://avatars.githubusercontent.com/u/156281960?s=400&u=024d31915969f2ba05fd56f6069a0b61b6394e4a&v=4",
     "email": "armandoj@hawaii.edu",
     "phone": "925-705-3659",
@@ -16,11 +16,11 @@
   "interests": [
     { "name": "Hiking" },
     { "name": "Swimming" },
+    { "name": "Nuclear Power/Engineering" },
     { "name": "Accounting" },
     { "name": "Waterpolo" },
     { "name": "Infra-Red Photography" }
   ],
-    ],
   "skills": [
     {
       "name": "Languages and Frameworks",
