@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Armando Martinez",
-    "label": "Student",
+    "label": "Undergraduate Student at Shidler College of Business",
     "picture": "https://avatars.githubusercontent.com/u/156281960?s=400&u=024d31915969f2ba05fd56f6069a0b61b6394e4a&v=4",
     "email": "armandoj@hawaii.edu",
     "phone": "925-705-3659",
@@ -16,7 +16,6 @@
   "interests": [
     { "name": "Hiking" },
     { "name": "Swimming" },
-    { "name": "Nuclear Power/Engineering" },
     { "name": "Accounting" },
     { "name": "Waterpolo" },
     { "name": "Infra-Red Photography" }
@@ -34,9 +33,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "MIS & Accounting (expected Spring, 2025)",
+      "studyType": "B.B.A",
+      "startDate": "08-22-2021",
       "endDate": "Present",
       "courses": [
       ]
