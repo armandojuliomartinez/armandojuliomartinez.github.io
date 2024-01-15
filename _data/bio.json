@@ -20,6 +20,7 @@
     { "name": "Waterpolo" },
     { "name": "Infra-Red Photography" }
   ],
+    ],
   "skills": [
     {
       "name": "Languages and Frameworks",
@@ -33,9 +34,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Accounting and Management Information Systems (expected Spring, 2025)",
-      "studyType": "B.B.A",
-      "startDate": "2021-08-22",
+      "area": "Computer Science (expected Spring, 2018)",
+      "studyType": "B.S.",
+      "startDate": "2013-09-01",
       "endDate": "Present",
       "courses": [
       ]
@@ -43,38 +44,27 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Duke Kahanamoku Aquatic Complex",
-      "position": "Pool Assistant / Games Management",
-      "website": "https://hawaiiathletics.com/sports/2008/5/14/duke_kahanamoku_aquatic_complex.aspx",
-      "startDate": "2021-09-01",
+      "company": "UH Manoa Board of Publications",
+      "position": "Web Developer",
+      "website": "",
+      "startDate": "2015-08-01",
       "endDate": "Present",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
-        "Maintain, and clean, and pool facilities",
-        "Ensure a safe environment at football, waterpolo, and Swim events hosted by UH"
+        "Maintain, update, and oversee official college newspaper website",
+        "Drive, design and build student-community projects for UH Manoa"
       ]
     },
     {
-      "company": "UH Hamilton Library",
-      "position": "Student Assistant at Circulation desk",
-      "website": "https://manoa.hawaii.edu/library/",
-      "startDate": "2021-09-01",
-      "endDate": "2022-05-15",
+      "company": "UH Information Technology Services",
+      "position": "Help Desk Consultant",
+      "website": "http://www.hawaii.edu/its/",
+      "startDate": "2015-01-01",
+      "endDate": "2016-03-15",
       "summary": "",
       "highlights": [
-        "Helped Patrons with locating books and locations with in the Library"
-      ]
-    },
-    {
-      "company": "University of Hawai'i Economic Research Organization",
-      "position": "Undergraduate Economic Research Assistant",
-      "website": "https://manoa.hawaii.edu/library/",
-      "startDate": "2023-09-05",
-      "endDate": "Present",
-      "summary": "Research economic viablitiy of Bio-Controls for the State",
-      "highlights": [
-        "Assists lead researchers with finding information",
-        "Inputs information into database"
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk"
       ]
     }
   ],
@@ -89,7 +79,36 @@
       "highlights": [
         "Design firmware for distributed weather sensor network",
         "Maintain custom data collection and storage infrastructure"
-      ],
+      ]
+    },
+    {
+      "organization": "",
+      "website": "",
+      "position": "Professional organization involvement",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Chair, ACM Manoa, 2016-Present",
+        "Member, IEEE Student Branch, 2014-Present",
+        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "B+ Scholarship",
+      "date": "2013-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    },
+    {
+      "title": "First place",
+      "date": "2015",
+      "awarder": "University of Hawaii Micromouse Competition",
+      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+    }
+  ],
   "references": [
     {
       "name": "Available upon request"
