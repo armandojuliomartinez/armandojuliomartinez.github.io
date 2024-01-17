@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://drive.google.com/file/d/1GRrPd1Rf8-t0F-lEjS52ChQGu7vK9Fgr/view
+image: https://drive.google.com/file/d/1GRrPd1Rf8-t0F-lEjS52ChQGu7vK9Fgr/view?usp=sharing
 title: "Cost Benefit anyalsis of implementing Bio-controls for the State of Hawaii"
 date: 2024
 published: true
