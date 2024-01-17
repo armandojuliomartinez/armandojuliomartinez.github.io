@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://uhero.hawaii.edu/wp-content/uploads/2019/02/UHERO-White.png
+image: https://drive.google.com/file/d/1GRrPd1Rf8-t0F-lEjS52ChQGu7vK9Fgr/view
 title: "Cost Benefit anyalsis of implementing Bio-controls for the State of Hawaii"
 date: 2024
 published: true
