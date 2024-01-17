@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/UHERO-blue.png
+image: img/UHERO-blue resized.png
 title: "Cost Benefit anyalsis of implementing Bio-controls for the State of Hawaii"
 date: 2024
 published: true
