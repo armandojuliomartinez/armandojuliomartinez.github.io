@@ -37,8 +37,7 @@
       "studyType": "B.B.A",
       "startDate": "2021-08-22",
       "endDate": "Present",
-      "courses": [ "ITM 352", "Acc 321", "Acc 401", "Bus 310", "Bus 311"
-      ]
+      "courses": [ "ITM 352", "Acc 321", "Acc 401", "Bus 310", "Bus 311" ]
     }
   ], 
   "work": [
@@ -48,9 +47,8 @@
       "website": "https://uhero.hawaii.edu/",
       "startDate": "2023-09-05",
       "endDate": "present",
-      "summarry": "Assist in cost benefit analysis of implementing bio-controls for the state",
-      "highlights": [ "Investigate, verify & validate input calculations for cost-benefit analysis execution of bio-controls of 3 invasive species", "Add, update, & administer contact specialists & reference documents database of project resources for research team", "Presents, summarizes & reports results of background data and information relevant to current study topic"
-      ]
+      "summary": "Assist in cost benefit analysis of implementing bio-controls for the state",
+      "highlights": [ "Investigate, verify & validate input calculations for cost-benefit analysis execution of bio-controls of 3 invasive species", "Add, update, & administer contact specialists & reference documents database of project resources for research team", "Presents, summarizes & reports results of background data and information relevant to current study topic" ]
     },
     {
       "company": "Duke Kahanamoku Aquatic Complex",
@@ -58,14 +56,11 @@
       "website": "",
       "startDate": "2021-09-05",
       "endDate": "present",
-      "summarry": "Assist in set up for events hosted by the Duke Kahnamoku Aquatic Complex",
-      "highlights": [ "Proactively greets, answers, and clarifies directional info and rules of the event and the pool complex to guests", "Advises, trains, & assists new hires in tasks and their completion of responsibilities", "Inspects. monitors and maintains pool and recreation areas for the safety of athletes and patrons"
-      ]
-    },
+      "summary": "Assist in set up for events hosted by the Duke Kahanamoku Aquatic Complex",
+      "highlights": [ "Proactively greets, answers, and clarifies directional info and rules of the event and the pool complex to guests", "Advises, trains, & assists new hires in tasks and their completion of responsibilities", "Inspects. monitors and maintains pool and recreation areas for the safety of athletes and patrons" ]
+    }
   ],
   "references": [
-    {
-      "name": "Available upon request"
-    }
+    { "name": "Available upon request" }
   ]
 }
