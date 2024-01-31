@@ -10,7 +10,7 @@ labels:
   - Essay
 ---
 
-##Summary
+## Summary
 
 The Browser History series of workshops provided a progressive journey into webpage development. Browser History 1 introduced an easy way to set up a web page through HTML using vs code. Browser History 2, builds on Browser Hist. 1, taught us how to use cascading style sheets to apply different fonts, change the background color, resize images and their positions. Browser Hist. 3 builds off of the previous two Browser Histories and combines both html and css to rearrange the layout of the webpage by adding a horizontal navigation bar and dividing the content into 3 separate columns.
 
