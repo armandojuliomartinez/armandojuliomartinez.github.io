@@ -15,7 +15,7 @@ The Browser History series of workshops provided a progressive journey into webp
 
 
 ## WOD 1
-
+WOD 1: Sd - 23 mins
 This WOD took me 2 attempts. I used a Doc Emmet to start off  the WOD. This saved me an immense amount of time on typing out all of the basic html tags to make a web page. I highly recommend using chatgpt as a research tool even if it is to remember certain HTML tags. If you use chatgpt I would recommend taking notes on the code it gives you that way you learn how to properly use the tags. I also recommend helping people with their WOD or getting help from others when you are trying it out first. Then I would go to the screencast. I also recommend attempting the first WOD before the day it is due. That way you are not freaking out while you are frantically trying to complete it under the recommended time.
 
 ## WOD 2
