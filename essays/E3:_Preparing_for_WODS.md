@@ -4,7 +4,7 @@ type: essay
 title: "E3: Preparing for WODs Technical Essay"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-16
-published: false
+published: true
 labels:
   - Invoice 1
   - Essay
