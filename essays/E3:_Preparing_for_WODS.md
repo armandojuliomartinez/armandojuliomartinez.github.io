@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "E1: UI Basics Technical Essay"
+title: "E3: Preparing for WODs Technical Essay"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-30
 published: false
@@ -28,3 +28,4 @@ This WOD was the easiest of the three for me. What I like to do for my WODs is t
 ## WOD 3 Av - 14 mins
 
 In this WOD I experienced some difficulties especially in how to generate the three columns similarly to how it was displayed in the image we were comparing it to. I also experienced some issues in getting the images for the sections to appear in line with their associated paragraphs. I highly recommend getting help from a classmate or a friend that knows how to code. For me I was lucky enough to know a friend who knows a css and he taught me how to make my middle column appear next to the other. I also highly recommend this one to play around with where the img references are in the html file. If you are having trouble and don’t know anyone in your class I would go check out the demonstration because they explain the lab but I would do this as a last resort.
+[Invoice 1](https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-preparing-for-WOD.html)
